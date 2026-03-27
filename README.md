@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/Wallet-Freighter-34d399?style=for-the-badge" />
 <img src="https://img.shields.io/badge/License-MIT-fb7185?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Status-Live%20on%20Testnet-34d399?style=for-the-badge" />
-![contract-deployed](https://github.com/user-attachments/assets/7946a3b4-1155-47d9-8f81-e12e2d5c02c2)
+![Contract Deployed](https://github.com/user-attachments/assets/7946a3b4-1155-47d9-8f81-e12e2d5c02c2)
 
 
 <br/><br/>
