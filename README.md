@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/Status-Live%20on%20Testnet-34d399?style=for-the-badge" />
 <img width="1843" height="824" alt="image" src="https://github.com/user-attachments/assets/7c9bf8ce-78e8-4c26-8502-b99440c75af2" />
 
-Contract CAVL3F7R6A4WCHKDVVNCFGTCGJAUVR7766QRLZXZG2YZVOUOLEAOVFNT
+Contract-CAVL3F7R6A4WCHKDVVNCFGTCGJAUVR7766QRLZXZG2YZVOUOLEAOVFNT
 
 
 <br/><br/>
